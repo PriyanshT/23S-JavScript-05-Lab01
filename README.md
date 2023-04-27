@@ -27,8 +27,22 @@ Build upon the provided JavaScript, and do the following things inside the loop 
 6. BONUS – Output the average number of characters of the airport names inside a paragraph after the list of airports
 
 #### EVALUATION
-#### Criteria                       | #### Mark
------------------------------------ | -------------
-The above tasks have been completed | 5
-#### TOTAL                          | 5
-Bonus Challenge                     | 2
+<table>
+  <tr>
+    <th>#### Criteria</th>
+    <th>#### Mark</th>
+  </tr>
+  <tr>
+    <td>The above taska have been completed</td>
+    <td>/5</td>
+  </tr>
+  <tr>
+    <td>Bonus Challenge</td>
+    <td>/2</td>
+  </tr>
+  <tr>
+    <td>#### TOTAL</td>
+    <td>#### /5</td>
+  </tr>
+</table>
+
