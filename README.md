@@ -29,8 +29,8 @@ Build upon the provided JavaScript, and do the following things inside the loop 
 #### EVALUATION
 <table>
   <tr>
-    <th>#### Criteria</th>
-    <th>#### Mark</th>
+    <th><b>Criteria</b></th>
+    <th><b>Mark</b></th>
   </tr>
   <tr>
     <td>The above taska have been completed</td>
@@ -41,8 +41,8 @@ Build upon the provided JavaScript, and do the following things inside the loop 
     <td>/2</td>
   </tr>
   <tr>
-    <td>#### TOTAL</td>
-    <td>#### /5</td>
+    <td><b>TOTAL</b></td>
+    <td><b>/5</b></td>
   </tr>
 </table>
 
