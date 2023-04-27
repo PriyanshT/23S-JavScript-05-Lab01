@@ -1,6 +1,6 @@
 ### COMP 1073 – Client-Side JavaScript
 
-# LAB 2
+# LAB 1
 ## Variables, Operators and Strings
 
 #### DESCRIPTION
