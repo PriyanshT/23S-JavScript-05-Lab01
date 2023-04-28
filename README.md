@@ -33,7 +33,7 @@ Build upon the provided JavaScript, and do the following things inside the loop 
     <th><b>Mark</b></th>
   </tr>
   <tr>
-    <td>The above taska have been completed</td>
+    <td>The above task have been completed</td>
     <td>/5</td>
   </tr>
   <tr>
